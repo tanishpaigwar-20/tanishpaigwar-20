@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanishpaigwar-20
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Web
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Web and ML
+- 💞️ I’m looking to collaborate on ...ML and DL projects
 - 📫 How to reach me ... tanishpaigwar21@gmail.com
 
 <!---
