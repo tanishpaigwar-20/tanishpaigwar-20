@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanishpaigwar-20
-- 👀 I’m interested in ... Web Development and Machine Learning
-- 🌱 I’m currently learning ... FrontEnd Frameworks and Deep Learning Models
+- 👀 I’m interested in ... Data Analysis and Machine Learning
+- 🌱 I’m currently learning ... NLP, LLM and Deep Learning Models
 - 💞️ I’m looking to collaborate on ...Web, ML and DL projects
 - 📫 How to reach me ... tanishpaigwar21@gmail.com
 
